@@ -20,3 +20,5 @@ this project using TTGO LoRa ESP32 V2.1 with the pin out
  *          VCC -- 5V BREADBOARD POWER SUPPLY
  *   code by Riyu Muhammad Ilhamsyah
  **************************************/
+ 
+ the webserver using SPIFFS esp32
